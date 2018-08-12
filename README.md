@@ -1,6 +1,6 @@
 # TripApp-WPF-
 This app can be as tool for planing your adventure.
-Features:
+</br>Features:
 [Planed]
 -Planing trips
 -Adding cities in your trip
