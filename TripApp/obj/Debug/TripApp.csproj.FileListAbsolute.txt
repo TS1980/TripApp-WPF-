@@ -1,0 +1,85 @@
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.csprojResolveAssemblyReference.cache
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\CityInfo.g.cs
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\LoginWindow.g.cs
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\App.g.cs
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp_MarkupCompile.cache
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp_MarkupCompile.lref
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\TripView.g.cs
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\TripApp.exe.config
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\TripApp.exe
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\TripApp.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\CommonServiceLocator.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\CityInfo.baml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\LoginWindow.baml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\View\TripView.baml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.g.resources
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.Properties.Resources.resources
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.csproj.GenerateResource.Cache
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.csproj.CoreCompileInputs.cache
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.exe
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\TripApp.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\EntityFramework.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\EntityFramework.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TTT\documents\visual studio 2017\Projects\TripApp\TripApp\obj\Debug\App.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.csprojAssemblyReference.cache
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\CityInfo.g.cs
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\LoginWindow.g.cs
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\TripView.g.cs
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\App.g.cs
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp_MarkupCompile.cache
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp_MarkupCompile.lref
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.exe
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\PdfReader.g.cs
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\TripApp.exe.config
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\TripApp.exe
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\TripApp.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\CommonServiceLocator.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\EntityFramework.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\EntityFramework.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\App.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\CityInfo.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\LoginWindow.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\PdfReader.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\View\TripView.baml
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.g.resources
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.Properties.Resources.resources
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.csproj.GenerateResource.cache
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.csproj.CoreCompileInputs.cache
+C:\Users\Sady_av85\Source\Repos\TripApp2\TripApp\obj\Debug\TripApp.csproj.CopyComplete
