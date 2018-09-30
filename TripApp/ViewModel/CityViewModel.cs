@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +25,8 @@ namespace TripApp.ViewModel
                 Set(ref selected, value);
                 var city = cityAdd.FullInfo(Selected.CityName);
                 Selected.CountryId = city.CountryId;
-                Selected.ContinentCode = city.ContinentCode;
+                Selected.Lon = city.Lon;
+                Selected.Lon = city.Lat;
             }
         }
 
